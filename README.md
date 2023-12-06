@@ -7,9 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F78364175%2FMotion-Graphics-Animation-Animated-GIFs-for-web%3Flocale%3Dcs_CZ&psig=AOvVaw2prMz1VVNZtdyLnd3VWV4h&ust=1701969584199000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCCrfWo-4IDFQAAAAAdAAAAABAa"  />
+![giphy (2)](https://github.com/itsroshan137/Horizontal-Swiper/assets/144174426/7b304681-efd1-4a6b-9571-c6f2f568b19a) 
 
 ###
 
