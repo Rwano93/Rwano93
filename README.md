@@ -9,9 +9,9 @@
 
 
 ###
-
-![giphy (2)](https://github.com/itsroshan137/Horizontal-Swiper/assets/144174426/7b304681-efd1-4a6b-9571-c6f2f568b19a) 
-
+<div align = "right">
+  <img width="50" />
+  ![giphy (2)](https://github.com/itsroshan137/Horizontal-Swiper/assets/144174426/7b304681-efd1-4a6b-9571-c6f2f568b19a) 
 ###
 
 <div align="left">
