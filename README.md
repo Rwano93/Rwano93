@@ -2,14 +2,14 @@
 
 ###
 
+![back-end-developer](https://github.com/itsroshan137/Horizontal-Swiper/assets/144174426/7ba56f33-09c0-4419-b498-76a2432d19b8)
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rwano93&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rwano93&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-###
-![back-end-developer](https://github.com/itsroshan137/Horizontal-Swiper/assets/144174426/7ba56f33-09c0-4419-b498-76a2432d19b8)
 ###
 
 <div align="left">
