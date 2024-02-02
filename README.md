@@ -2,7 +2,7 @@
 
 ###
 
-![back-end-developer](https://github.com/itsroshan137/Horizontal-Swiper/assets/144174426/7ba56f33-09c0-4419-b498-76a2432d19b8)
+
 ###
 
 <div align="center">
