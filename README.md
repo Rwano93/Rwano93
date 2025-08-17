@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/144933924?v=4" width="150" height="150" style="border-radius:50%">
   <h1>Salut 👋, I'm Rwano!</h1>
   <p>Also known as Luffy alias Rwano, I'm a passionate and curious developer based in Paris.</p>
 </div>
