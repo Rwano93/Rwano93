@@ -68,7 +68,7 @@
 
 <div align="center">
   <p>My daily progress and contributions on GitHub:</p>
-  <img src="https://raw.githubusercontent.com/Rwano93/Rwano93/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake" />
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="GitHub Contributions Snake" />
 </div>
 
 ---
